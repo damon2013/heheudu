@@ -1,0 +1,17 @@
+PODS:
+  - CYLTabBarController (1.6.0)
+  - FMDB (2.6.2):
+    - FMDB/standard (= 2.6.2)
+  - FMDB/standard (2.6.2)
+
+DEPENDENCIES:
+  - CYLTabBarController
+  - FMDB
+
+SPEC CHECKSUMS:
+  CYLTabBarController: efbdd574772be17f17965acd7ee993f5972ff02f
+  FMDB: 854a0341b4726e53276f2a8996f06f1b80f9259a
+
+PODFILE CHECKSUM: 7c338e0989316250fe1767729172e3c422e24a0c
+
+COCOAPODS: 1.1.1
