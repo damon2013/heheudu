@@ -65,6 +65,8 @@ UIViewController *CYLPlusChildViewController = nil;
     }];
     [plusButton addTarget:plusButton action:@selector(plusChildViewControllerButtonClicked:) forControlEvents:UIControlEventTouchUpInside];
 }
-
++ (NSUInteger)indexOfPlusButtonInTabBar {
+    return 5;
+}
 
 @end
