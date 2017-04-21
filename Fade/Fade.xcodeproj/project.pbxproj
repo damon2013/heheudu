@@ -15,6 +15,86 @@
 		E90BB8BB1EA90B1200101D93 /* UserCenterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E90BB8BA1EA90B1200101D93 /* UserCenterViewController.m */; };
 		E90BB8CE1EA90C5200101D93 /* SquareViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E90BB8CD1EA90C5200101D93 /* SquareViewController.m */; };
 		E90BB8D31EA9105000101D93 /* CYLPlusButtonSubclass.m in Sources */ = {isa = PBXBuildFile; fileRef = E90BB8D21EA9105000101D93 /* CYLPlusButtonSubclass.m */; };
+		E91E7E161EAA154B00E786A7 /* bootstrap.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DB11EAA154B00E786A7 /* bootstrap.php */; };
+		E91E7E171EAA154B00E786A7 /* ExampleController.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DB31EAA154B00E786A7 /* ExampleController.php */; };
+		E91E7E181EAA154B00E786A7 /* HomeController.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DB41EAA154B00E786A7 /* HomeController.php */; };
+		E91E7E191EAA154B00E786A7 /* routes.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DB51EAA154B00E786A7 /* routes.php */; };
+		E91E7E1A1EAA154B00E786A7 /* Inspire.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DB81EAA154B00E786A7 /* Inspire.php */; };
+		E91E7E1B1EAA154B00E786A7 /* Kernel.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DB91EAA154B00E786A7 /* Kernel.php */; };
+		E91E7E1C1EAA154B00E786A7 /* Event.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DBB1EAA154B00E786A7 /* Event.php */; };
+		E91E7E1D1EAA154B00E786A7 /* Handler.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DBD1EAA154B00E786A7 /* Handler.php */; };
+		E91E7E1E1EAA154B00E786A7 /* ApiHelper.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DBF1EAA154B00E786A7 /* ApiHelper.php */; };
+		E91E7E1F1EAA154B00E786A7 /* AuthenticateController.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DC21EAA154B00E786A7 /* AuthenticateController.php */; };
+		E91E7E201EAA154B00E786A7 /* BaseController.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DC31EAA154B00E786A7 /* BaseController.php */; };
+		E91E7E211EAA154B00E786A7 /* CategoryController.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DC41EAA154B00E786A7 /* CategoryController.php */; };
+		E91E7E221EAA154B00E786A7 /* CollectionController.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DC51EAA154B00E786A7 /* CollectionController.php */; };
+		E91E7E231EAA154B00E786A7 /* CommentController.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DC61EAA154B00E786A7 /* CommentController.php */; };
+		E91E7E241EAA154B00E786A7 /* FeedbackController.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DC71EAA154B00E786A7 /* FeedbackController.php */; };
+		E91E7E251EAA154B00E786A7 /* FriendController.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DC81EAA154B00E786A7 /* FriendController.php */; };
+		E91E7E261EAA154B00E786A7 /* GrammarController.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DC91EAA154B00E786A7 /* GrammarController.php */; };
+		E91E7E271EAA154B00E786A7 /* LikeRecordController.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DCA1EAA154B00E786A7 /* LikeRecordController.php */; };
+		E91E7E281EAA154B00E786A7 /* ManualController.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DCB1EAA154B00E786A7 /* ManualController.php */; };
+		E91E7E291EAA154B00E786A7 /* MessageRecordController.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DCC1EAA154B00E786A7 /* MessageRecordController.php */; };
+		E91E7E2A1EAA154C00E786A7 /* OptionController.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DCD1EAA154B00E786A7 /* OptionController.php */; };
+		E91E7E2B1EAA154C00E786A7 /* TweetsController.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DCE1EAA154B00E786A7 /* TweetsController.php */; };
+		E91E7E2C1EAA154C00E786A7 /* UserController.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DCF1EAA154B00E786A7 /* UserController.php */; };
+		E91E7E2D1EAA154C00E786A7 /* VideoController.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DD01EAA154B00E786A7 /* VideoController.php */; };
+		E91E7E2E1EAA154C00E786A7 /* AuthController.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DD21EAA154B00E786A7 /* AuthController.php */; };
+		E91E7E2F1EAA154C00E786A7 /* PasswordController.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DD31EAA154B00E786A7 /* PasswordController.php */; };
+		E91E7E301EAA154C00E786A7 /* Controller.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DD41EAA154B00E786A7 /* Controller.php */; };
+		E91E7E311EAA154C00E786A7 /* PostController.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DD51EAA154B00E786A7 /* PostController.php */; };
+		E91E7E321EAA154C00E786A7 /* RequestController.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DD61EAA154B00E786A7 /* RequestController.php */; };
+		E91E7E331EAA154C00E786A7 /* Kernel.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DD71EAA154B00E786A7 /* Kernel.php */; };
+		E91E7E341EAA154C00E786A7 /* AdminLogin.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DD91EAA154B00E786A7 /* AdminLogin.php */; };
+		E91E7E351EAA154C00E786A7 /* Authenticate.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DDA1EAA154B00E786A7 /* Authenticate.php */; };
+		E91E7E361EAA154C00E786A7 /* CkeckRegister.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DDB1EAA154B00E786A7 /* CkeckRegister.php */; };
+		E91E7E371EAA154C00E786A7 /* EncryptCookies.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DDC1EAA154B00E786A7 /* EncryptCookies.php */; };
+		E91E7E381EAA154C00E786A7 /* GetUserFromToken.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DDD1EAA154B00E786A7 /* GetUserFromToken.php */; };
+		E91E7E391EAA154C00E786A7 /* RedirectIfAuthenticated.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DDE1EAA154B00E786A7 /* RedirectIfAuthenticated.php */; };
+		E91E7E3A1EAA154C00E786A7 /* TestMiddleware.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DDF1EAA154B00E786A7 /* TestMiddleware.php */; };
+		E91E7E3B1EAA154C00E786A7 /* VerifyCsrfToken.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DE01EAA154B00E786A7 /* VerifyCsrfToken.php */; };
+		E91E7E3C1EAA154C00E786A7 /* Request.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DE31EAA154B00E786A7 /* Request.php */; };
+		E91E7E3D1EAA154C00E786A7 /* routes.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DE41EAA154B00E786A7 /* routes.php */; };
+		E91E7E3E1EAA154C00E786A7 /* Job.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DE61EAA154B00E786A7 /* Job.php */; };
+		E91E7E3F1EAA154C00E786A7 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DE81EAA154B00E786A7 /* .gitkeep */; };
+		E91E7E401EAA154C00E786A7 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DEA1EAA154B00E786A7 /* .gitkeep */; };
+		E91E7E411EAA154C00E786A7 /* AppServiceProvider.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DEC1EAA154B00E786A7 /* AppServiceProvider.php */; };
+		E91E7E421EAA154C00E786A7 /* AuthServiceProvider.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DED1EAA154B00E786A7 /* AuthServiceProvider.php */; };
+		E91E7E431EAA154C00E786A7 /* EventServiceProvider.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DEE1EAA154B00E786A7 /* EventServiceProvider.php */; };
+		E91E7E441EAA154C00E786A7 /* RouteServiceProvider.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DEF1EAA154B00E786A7 /* RouteServiceProvider.php */; };
+		E91E7E451EAA154C00E786A7 /* User.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DF01EAA154B00E786A7 /* User.php */; };
+		E91E7E461EAA154C00E786A7 /* composer.json in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DF11EAA154B00E786A7 /* composer.json */; };
+		E91E7E471EAA154C00E786A7 /* admin.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DF31EAA154B00E786A7 /* admin.php */; };
+		E91E7E481EAA154C00E786A7 /* api.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DF41EAA154B00E786A7 /* api.php */; };
+		E91E7E491EAA154C00E786A7 /* app.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DF51EAA154B00E786A7 /* app.php */; };
+		E91E7E4A1EAA154C00E786A7 /* auth.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DF61EAA154B00E786A7 /* auth.php */; };
+		E91E7E4B1EAA154C00E786A7 /* broadcasting.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DF71EAA154B00E786A7 /* broadcasting.php */; };
+		E91E7E4C1EAA154C00E786A7 /* cache.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DF81EAA154B00E786A7 /* cache.php */; };
+		E91E7E4D1EAA154C00E786A7 /* compile.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DF91EAA154B00E786A7 /* compile.php */; };
+		E91E7E4E1EAA154C00E786A7 /* database.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DFA1EAA154B00E786A7 /* database.php */; };
+		E91E7E4F1EAA154C00E786A7 /* filesystems.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DFB1EAA154B00E786A7 /* filesystems.php */; };
+		E91E7E501EAA154C00E786A7 /* jwt.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DFC1EAA154B00E786A7 /* jwt.php */; };
+		E91E7E511EAA154C00E786A7 /* mail.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DFD1EAA154B00E786A7 /* mail.php */; };
+		E91E7E521EAA154C00E786A7 /* queue.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DFE1EAA154B00E786A7 /* queue.php */; };
+		E91E7E531EAA154C00E786A7 /* services.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7DFF1EAA154B00E786A7 /* services.php */; };
+		E91E7E541EAA154C00E786A7 /* session.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7E001EAA154B00E786A7 /* session.php */; };
+		E91E7E551EAA154C00E786A7 /* view.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7E011EAA154B00E786A7 /* view.php */; };
+		E91E7E561EAA154C00E786A7 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = E91E7E031EAA154B00E786A7 /* .gitignore */; };
+		E91E7E571EAA154C00E786A7 /* ModelFactory.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7E051EAA154B00E786A7 /* ModelFactory.php */; };
+		E91E7E581EAA154C00E786A7 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = E91E7E071EAA154B00E786A7 /* .gitkeep */; };
+		E91E7E591EAA154C00E786A7 /* 2017_04_20_071514_create_user_auths_table.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7E081EAA154B00E786A7 /* 2017_04_20_071514_create_user_auths_table.php */; };
+		E91E7E5A1EAA154C00E786A7 /* 2017_04_20_093643_create_users_table.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7E091EAA154B00E786A7 /* 2017_04_20_093643_create_users_table.php */; };
+		E91E7E5B1EAA154C00E786A7 /* 2017_04_21_093352_create_hope_partner_table.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7E0A1EAA154B00E786A7 /* 2017_04_21_093352_create_hope_partner_table.php */; };
+		E91E7E5C1EAA154C00E786A7 /* 2017_04_21_093702_create_photos_table.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7E0B1EAA154B00E786A7 /* 2017_04_21_093702_create_photos_table.php */; };
+		E91E7E5D1EAA154C00E786A7 /* 2017_04_21_093732_create_locations_table.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7E0C1EAA154B00E786A7 /* 2017_04_21_093732_create_locations_table.php */; };
+		E91E7E5E1EAA154C00E786A7 /* 2017_04_21_093832_create_basic_status_table.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7E0D1EAA154B00E786A7 /* 2017_04_21_093832_create_basic_status_table.php */; };
+		E91E7E5F1EAA154C00E786A7 /* 2017_04_21_093918_create_vip_status_table.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7E0E1EAA154B00E786A7 /* 2017_04_21_093918_create_vip_status_table.php */; };
+		E91E7E601EAA154C00E786A7 /* 2017_04_21_094143_create_auth_house_status_table.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7E0F1EAA154B00E786A7 /* 2017_04_21_094143_create_auth_house_status_table.php */; };
+		E91E7E611EAA154C00E786A7 /* 2017_04_21_094143_create_auth_identity_status_table.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7E101EAA154B00E786A7 /* 2017_04_21_094143_create_auth_identity_status_table.php */; };
+		E91E7E621EAA154C00E786A7 /* 2017_04_21_094144_create_auth_edu_status_table.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7E111EAA154B00E786A7 /* 2017_04_21_094144_create_auth_edu_status_table.php */; };
+		E91E7E631EAA154C00E786A7 /* 2017_04_21_094147_create_auth_job_status_table.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7E121EAA154B00E786A7 /* 2017_04_21_094147_create_auth_job_status_table.php */; };
+		E91E7E641EAA154C00E786A7 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = E91E7E141EAA154B00E786A7 /* .gitkeep */; };
+		E91E7E651EAA154C00E786A7 /* DatabaseSeeder.php in Resources */ = {isa = PBXBuildFile; fileRef = E91E7E151EAA154B00E786A7 /* DatabaseSeeder.php */; };
 		E935C1CD1EA4F8C6006222D2 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E935C1CC1EA4F8C6006222D2 /* main.m */; };
 		E935C1D01EA4F8C6006222D2 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E935C1CF1EA4F8C6006222D2 /* AppDelegate.m */; };
 		E935C1D31EA4F8C6006222D2 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E935C1D21EA4F8C6006222D2 /* ViewController.m */; };
@@ -58,6 +138,86 @@
 		E90BB8CD1EA90C5200101D93 /* SquareViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SquareViewController.m; sourceTree = "<group>"; };
 		E90BB8D11EA9105000101D93 /* CYLPlusButtonSubclass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CYLPlusButtonSubclass.h; sourceTree = "<group>"; };
 		E90BB8D21EA9105000101D93 /* CYLPlusButtonSubclass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CYLPlusButtonSubclass.m; sourceTree = "<group>"; };
+		E91E7DB11EAA154B00E786A7 /* bootstrap.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = bootstrap.php; sourceTree = "<group>"; };
+		E91E7DB31EAA154B00E786A7 /* ExampleController.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = ExampleController.php; sourceTree = "<group>"; };
+		E91E7DB41EAA154B00E786A7 /* HomeController.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = HomeController.php; sourceTree = "<group>"; };
+		E91E7DB51EAA154B00E786A7 /* routes.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = routes.php; sourceTree = "<group>"; };
+		E91E7DB81EAA154B00E786A7 /* Inspire.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = Inspire.php; sourceTree = "<group>"; };
+		E91E7DB91EAA154B00E786A7 /* Kernel.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = Kernel.php; sourceTree = "<group>"; };
+		E91E7DBB1EAA154B00E786A7 /* Event.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = Event.php; sourceTree = "<group>"; };
+		E91E7DBD1EAA154B00E786A7 /* Handler.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = Handler.php; sourceTree = "<group>"; };
+		E91E7DBF1EAA154B00E786A7 /* ApiHelper.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = ApiHelper.php; sourceTree = "<group>"; };
+		E91E7DC21EAA154B00E786A7 /* AuthenticateController.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = AuthenticateController.php; sourceTree = "<group>"; };
+		E91E7DC31EAA154B00E786A7 /* BaseController.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = BaseController.php; sourceTree = "<group>"; };
+		E91E7DC41EAA154B00E786A7 /* CategoryController.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = CategoryController.php; sourceTree = "<group>"; };
+		E91E7DC51EAA154B00E786A7 /* CollectionController.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = CollectionController.php; sourceTree = "<group>"; };
+		E91E7DC61EAA154B00E786A7 /* CommentController.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = CommentController.php; sourceTree = "<group>"; };
+		E91E7DC71EAA154B00E786A7 /* FeedbackController.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = FeedbackController.php; sourceTree = "<group>"; };
+		E91E7DC81EAA154B00E786A7 /* FriendController.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = FriendController.php; sourceTree = "<group>"; };
+		E91E7DC91EAA154B00E786A7 /* GrammarController.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = GrammarController.php; sourceTree = "<group>"; };
+		E91E7DCA1EAA154B00E786A7 /* LikeRecordController.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = LikeRecordController.php; sourceTree = "<group>"; };
+		E91E7DCB1EAA154B00E786A7 /* ManualController.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = ManualController.php; sourceTree = "<group>"; };
+		E91E7DCC1EAA154B00E786A7 /* MessageRecordController.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = MessageRecordController.php; sourceTree = "<group>"; };
+		E91E7DCD1EAA154B00E786A7 /* OptionController.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = OptionController.php; sourceTree = "<group>"; };
+		E91E7DCE1EAA154B00E786A7 /* TweetsController.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = TweetsController.php; sourceTree = "<group>"; };
+		E91E7DCF1EAA154B00E786A7 /* UserController.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = UserController.php; sourceTree = "<group>"; };
+		E91E7DD01EAA154B00E786A7 /* VideoController.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = VideoController.php; sourceTree = "<group>"; };
+		E91E7DD21EAA154B00E786A7 /* AuthController.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = AuthController.php; sourceTree = "<group>"; };
+		E91E7DD31EAA154B00E786A7 /* PasswordController.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = PasswordController.php; sourceTree = "<group>"; };
+		E91E7DD41EAA154B00E786A7 /* Controller.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = Controller.php; sourceTree = "<group>"; };
+		E91E7DD51EAA154B00E786A7 /* PostController.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = PostController.php; sourceTree = "<group>"; };
+		E91E7DD61EAA154B00E786A7 /* RequestController.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = RequestController.php; sourceTree = "<group>"; };
+		E91E7DD71EAA154B00E786A7 /* Kernel.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = Kernel.php; sourceTree = "<group>"; };
+		E91E7DD91EAA154B00E786A7 /* AdminLogin.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = AdminLogin.php; sourceTree = "<group>"; };
+		E91E7DDA1EAA154B00E786A7 /* Authenticate.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = Authenticate.php; sourceTree = "<group>"; };
+		E91E7DDB1EAA154B00E786A7 /* CkeckRegister.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = CkeckRegister.php; sourceTree = "<group>"; };
+		E91E7DDC1EAA154B00E786A7 /* EncryptCookies.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = EncryptCookies.php; sourceTree = "<group>"; };
+		E91E7DDD1EAA154B00E786A7 /* GetUserFromToken.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = GetUserFromToken.php; sourceTree = "<group>"; };
+		E91E7DDE1EAA154B00E786A7 /* RedirectIfAuthenticated.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = RedirectIfAuthenticated.php; sourceTree = "<group>"; };
+		E91E7DDF1EAA154B00E786A7 /* TestMiddleware.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = TestMiddleware.php; sourceTree = "<group>"; };
+		E91E7DE01EAA154B00E786A7 /* VerifyCsrfToken.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = VerifyCsrfToken.php; sourceTree = "<group>"; };
+		E91E7DE31EAA154B00E786A7 /* Request.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = Request.php; sourceTree = "<group>"; };
+		E91E7DE41EAA154B00E786A7 /* routes.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = routes.php; sourceTree = "<group>"; };
+		E91E7DE61EAA154B00E786A7 /* Job.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = Job.php; sourceTree = "<group>"; };
+		E91E7DE81EAA154B00E786A7 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		E91E7DEA1EAA154B00E786A7 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		E91E7DEC1EAA154B00E786A7 /* AppServiceProvider.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = AppServiceProvider.php; sourceTree = "<group>"; };
+		E91E7DED1EAA154B00E786A7 /* AuthServiceProvider.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = AuthServiceProvider.php; sourceTree = "<group>"; };
+		E91E7DEE1EAA154B00E786A7 /* EventServiceProvider.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = EventServiceProvider.php; sourceTree = "<group>"; };
+		E91E7DEF1EAA154B00E786A7 /* RouteServiceProvider.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = RouteServiceProvider.php; sourceTree = "<group>"; };
+		E91E7DF01EAA154B00E786A7 /* User.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = User.php; sourceTree = "<group>"; };
+		E91E7DF11EAA154B00E786A7 /* composer.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = composer.json; sourceTree = "<group>"; };
+		E91E7DF31EAA154B00E786A7 /* admin.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = admin.php; sourceTree = "<group>"; };
+		E91E7DF41EAA154B00E786A7 /* api.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = api.php; sourceTree = "<group>"; };
+		E91E7DF51EAA154B00E786A7 /* app.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = app.php; sourceTree = "<group>"; };
+		E91E7DF61EAA154B00E786A7 /* auth.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = auth.php; sourceTree = "<group>"; };
+		E91E7DF71EAA154B00E786A7 /* broadcasting.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = broadcasting.php; sourceTree = "<group>"; };
+		E91E7DF81EAA154B00E786A7 /* cache.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = cache.php; sourceTree = "<group>"; };
+		E91E7DF91EAA154B00E786A7 /* compile.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = compile.php; sourceTree = "<group>"; };
+		E91E7DFA1EAA154B00E786A7 /* database.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = database.php; sourceTree = "<group>"; };
+		E91E7DFB1EAA154B00E786A7 /* filesystems.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = filesystems.php; sourceTree = "<group>"; };
+		E91E7DFC1EAA154B00E786A7 /* jwt.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = jwt.php; sourceTree = "<group>"; };
+		E91E7DFD1EAA154B00E786A7 /* mail.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = mail.php; sourceTree = "<group>"; };
+		E91E7DFE1EAA154B00E786A7 /* queue.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = queue.php; sourceTree = "<group>"; };
+		E91E7DFF1EAA154B00E786A7 /* services.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = services.php; sourceTree = "<group>"; };
+		E91E7E001EAA154B00E786A7 /* session.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = session.php; sourceTree = "<group>"; };
+		E91E7E011EAA154B00E786A7 /* view.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = view.php; sourceTree = "<group>"; };
+		E91E7E031EAA154B00E786A7 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		E91E7E051EAA154B00E786A7 /* ModelFactory.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = ModelFactory.php; sourceTree = "<group>"; };
+		E91E7E071EAA154B00E786A7 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		E91E7E081EAA154B00E786A7 /* 2017_04_20_071514_create_user_auths_table.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = 2017_04_20_071514_create_user_auths_table.php; sourceTree = "<group>"; };
+		E91E7E091EAA154B00E786A7 /* 2017_04_20_093643_create_users_table.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = 2017_04_20_093643_create_users_table.php; sourceTree = "<group>"; };
+		E91E7E0A1EAA154B00E786A7 /* 2017_04_21_093352_create_hope_partner_table.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = 2017_04_21_093352_create_hope_partner_table.php; sourceTree = "<group>"; };
+		E91E7E0B1EAA154B00E786A7 /* 2017_04_21_093702_create_photos_table.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = 2017_04_21_093702_create_photos_table.php; sourceTree = "<group>"; };
+		E91E7E0C1EAA154B00E786A7 /* 2017_04_21_093732_create_locations_table.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = 2017_04_21_093732_create_locations_table.php; sourceTree = "<group>"; };
+		E91E7E0D1EAA154B00E786A7 /* 2017_04_21_093832_create_basic_status_table.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = 2017_04_21_093832_create_basic_status_table.php; sourceTree = "<group>"; };
+		E91E7E0E1EAA154B00E786A7 /* 2017_04_21_093918_create_vip_status_table.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = 2017_04_21_093918_create_vip_status_table.php; sourceTree = "<group>"; };
+		E91E7E0F1EAA154B00E786A7 /* 2017_04_21_094143_create_auth_house_status_table.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = 2017_04_21_094143_create_auth_house_status_table.php; sourceTree = "<group>"; };
+		E91E7E101EAA154B00E786A7 /* 2017_04_21_094143_create_auth_identity_status_table.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = 2017_04_21_094143_create_auth_identity_status_table.php; sourceTree = "<group>"; };
+		E91E7E111EAA154B00E786A7 /* 2017_04_21_094144_create_auth_edu_status_table.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = 2017_04_21_094144_create_auth_edu_status_table.php; sourceTree = "<group>"; };
+		E91E7E121EAA154B00E786A7 /* 2017_04_21_094147_create_auth_job_status_table.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = 2017_04_21_094147_create_auth_job_status_table.php; sourceTree = "<group>"; };
+		E91E7E141EAA154B00E786A7 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		E91E7E151EAA154B00E786A7 /* DatabaseSeeder.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = DatabaseSeeder.php; sourceTree = "<group>"; };
 		E935C1C81EA4F8C6006222D2 /* Fade.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Fade.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E935C1CC1EA4F8C6006222D2 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		E935C1CE1EA4F8C6006222D2 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -131,6 +291,7 @@
 		E90BB8AB1EA906D900101D93 /* 业务 */ = {
 			isa = PBXGroup;
 			children = (
+				E91E7DAE1EAA154B00E786A7 /* laravel */,
 				E90BB8CF1EA9103C00101D93 /* Base */,
 				E90BB8C81EA90C3A00101D93 /* Square */,
 				E90BB8AC1EA9071600101D93 /* 我的 */,
@@ -323,6 +484,277 @@
 			path = Views;
 			sourceTree = "<group>";
 		};
+		E91E7DAE1EAA154B00E786A7 /* laravel */ = {
+			isa = PBXGroup;
+			children = (
+				E91E7DAF1EAA154B00E786A7 /* app */,
+				E91E7DF11EAA154B00E786A7 /* composer.json */,
+				E91E7DF21EAA154B00E786A7 /* config */,
+				E91E7E021EAA154B00E786A7 /* database */,
+			);
+			path = laravel;
+			sourceTree = "<group>";
+		};
+		E91E7DAF1EAA154B00E786A7 /* app */ = {
+			isa = PBXGroup;
+			children = (
+				E91E7DB01EAA154B00E786A7 /* Admin */,
+				E91E7DB61EAA154B00E786A7 /* Console */,
+				E91E7DBA1EAA154B00E786A7 /* Events */,
+				E91E7DBC1EAA154B00E786A7 /* Exceptions */,
+				E91E7DBE1EAA154B00E786A7 /* Http */,
+				E91E7DE51EAA154B00E786A7 /* Jobs */,
+				E91E7DE71EAA154B00E786A7 /* Listeners */,
+				E91E7DE91EAA154B00E786A7 /* Policies */,
+				E91E7DEB1EAA154B00E786A7 /* Providers */,
+				E91E7DF01EAA154B00E786A7 /* User.php */,
+			);
+			path = app;
+			sourceTree = "<group>";
+		};
+		E91E7DB01EAA154B00E786A7 /* Admin */ = {
+			isa = PBXGroup;
+			children = (
+				E91E7DB11EAA154B00E786A7 /* bootstrap.php */,
+				E91E7DB21EAA154B00E786A7 /* Controllers */,
+				E91E7DB51EAA154B00E786A7 /* routes.php */,
+			);
+			path = Admin;
+			sourceTree = "<group>";
+		};
+		E91E7DB21EAA154B00E786A7 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				E91E7DB31EAA154B00E786A7 /* ExampleController.php */,
+				E91E7DB41EAA154B00E786A7 /* HomeController.php */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		E91E7DB61EAA154B00E786A7 /* Console */ = {
+			isa = PBXGroup;
+			children = (
+				E91E7DB71EAA154B00E786A7 /* Commands */,
+				E91E7DB91EAA154B00E786A7 /* Kernel.php */,
+			);
+			path = Console;
+			sourceTree = "<group>";
+		};
+		E91E7DB71EAA154B00E786A7 /* Commands */ = {
+			isa = PBXGroup;
+			children = (
+				E91E7DB81EAA154B00E786A7 /* Inspire.php */,
+			);
+			path = Commands;
+			sourceTree = "<group>";
+		};
+		E91E7DBA1EAA154B00E786A7 /* Events */ = {
+			isa = PBXGroup;
+			children = (
+				E91E7DBB1EAA154B00E786A7 /* Event.php */,
+			);
+			path = Events;
+			sourceTree = "<group>";
+		};
+		E91E7DBC1EAA154B00E786A7 /* Exceptions */ = {
+			isa = PBXGroup;
+			children = (
+				E91E7DBD1EAA154B00E786A7 /* Handler.php */,
+			);
+			path = Exceptions;
+			sourceTree = "<group>";
+		};
+		E91E7DBE1EAA154B00E786A7 /* Http */ = {
+			isa = PBXGroup;
+			children = (
+				E91E7DBF1EAA154B00E786A7 /* ApiHelper.php */,
+				E91E7DC01EAA154B00E786A7 /* Controllers */,
+				E91E7DD71EAA154B00E786A7 /* Kernel.php */,
+				E91E7DD81EAA154B00E786A7 /* Middleware */,
+				E91E7DE11EAA154B00E786A7 /* Model */,
+				E91E7DE21EAA154B00E786A7 /* Requests */,
+				E91E7DE41EAA154B00E786A7 /* routes.php */,
+			);
+			path = Http;
+			sourceTree = "<group>";
+		};
+		E91E7DC01EAA154B00E786A7 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				E91E7DC11EAA154B00E786A7 /* Api */,
+				E91E7DD11EAA154B00E786A7 /* Auth */,
+				E91E7DD41EAA154B00E786A7 /* Controller.php */,
+				E91E7DD51EAA154B00E786A7 /* PostController.php */,
+				E91E7DD61EAA154B00E786A7 /* RequestController.php */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		E91E7DC11EAA154B00E786A7 /* Api */ = {
+			isa = PBXGroup;
+			children = (
+				E91E7DC21EAA154B00E786A7 /* AuthenticateController.php */,
+				E91E7DC31EAA154B00E786A7 /* BaseController.php */,
+				E91E7DC41EAA154B00E786A7 /* CategoryController.php */,
+				E91E7DC51EAA154B00E786A7 /* CollectionController.php */,
+				E91E7DC61EAA154B00E786A7 /* CommentController.php */,
+				E91E7DC71EAA154B00E786A7 /* FeedbackController.php */,
+				E91E7DC81EAA154B00E786A7 /* FriendController.php */,
+				E91E7DC91EAA154B00E786A7 /* GrammarController.php */,
+				E91E7DCA1EAA154B00E786A7 /* LikeRecordController.php */,
+				E91E7DCB1EAA154B00E786A7 /* ManualController.php */,
+				E91E7DCC1EAA154B00E786A7 /* MessageRecordController.php */,
+				E91E7DCD1EAA154B00E786A7 /* OptionController.php */,
+				E91E7DCE1EAA154B00E786A7 /* TweetsController.php */,
+				E91E7DCF1EAA154B00E786A7 /* UserController.php */,
+				E91E7DD01EAA154B00E786A7 /* VideoController.php */,
+			);
+			path = Api;
+			sourceTree = "<group>";
+		};
+		E91E7DD11EAA154B00E786A7 /* Auth */ = {
+			isa = PBXGroup;
+			children = (
+				E91E7DD21EAA154B00E786A7 /* AuthController.php */,
+				E91E7DD31EAA154B00E786A7 /* PasswordController.php */,
+			);
+			path = Auth;
+			sourceTree = "<group>";
+		};
+		E91E7DD81EAA154B00E786A7 /* Middleware */ = {
+			isa = PBXGroup;
+			children = (
+				E91E7DD91EAA154B00E786A7 /* AdminLogin.php */,
+				E91E7DDA1EAA154B00E786A7 /* Authenticate.php */,
+				E91E7DDB1EAA154B00E786A7 /* CkeckRegister.php */,
+				E91E7DDC1EAA154B00E786A7 /* EncryptCookies.php */,
+				E91E7DDD1EAA154B00E786A7 /* GetUserFromToken.php */,
+				E91E7DDE1EAA154B00E786A7 /* RedirectIfAuthenticated.php */,
+				E91E7DDF1EAA154B00E786A7 /* TestMiddleware.php */,
+				E91E7DE01EAA154B00E786A7 /* VerifyCsrfToken.php */,
+			);
+			path = Middleware;
+			sourceTree = "<group>";
+		};
+		E91E7DE11EAA154B00E786A7 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		E91E7DE21EAA154B00E786A7 /* Requests */ = {
+			isa = PBXGroup;
+			children = (
+				E91E7DE31EAA154B00E786A7 /* Request.php */,
+			);
+			path = Requests;
+			sourceTree = "<group>";
+		};
+		E91E7DE51EAA154B00E786A7 /* Jobs */ = {
+			isa = PBXGroup;
+			children = (
+				E91E7DE61EAA154B00E786A7 /* Job.php */,
+			);
+			path = Jobs;
+			sourceTree = "<group>";
+		};
+		E91E7DE71EAA154B00E786A7 /* Listeners */ = {
+			isa = PBXGroup;
+			children = (
+				E91E7DE81EAA154B00E786A7 /* .gitkeep */,
+			);
+			path = Listeners;
+			sourceTree = "<group>";
+		};
+		E91E7DE91EAA154B00E786A7 /* Policies */ = {
+			isa = PBXGroup;
+			children = (
+				E91E7DEA1EAA154B00E786A7 /* .gitkeep */,
+			);
+			path = Policies;
+			sourceTree = "<group>";
+		};
+		E91E7DEB1EAA154B00E786A7 /* Providers */ = {
+			isa = PBXGroup;
+			children = (
+				E91E7DEC1EAA154B00E786A7 /* AppServiceProvider.php */,
+				E91E7DED1EAA154B00E786A7 /* AuthServiceProvider.php */,
+				E91E7DEE1EAA154B00E786A7 /* EventServiceProvider.php */,
+				E91E7DEF1EAA154B00E786A7 /* RouteServiceProvider.php */,
+			);
+			path = Providers;
+			sourceTree = "<group>";
+		};
+		E91E7DF21EAA154B00E786A7 /* config */ = {
+			isa = PBXGroup;
+			children = (
+				E91E7DF31EAA154B00E786A7 /* admin.php */,
+				E91E7DF41EAA154B00E786A7 /* api.php */,
+				E91E7DF51EAA154B00E786A7 /* app.php */,
+				E91E7DF61EAA154B00E786A7 /* auth.php */,
+				E91E7DF71EAA154B00E786A7 /* broadcasting.php */,
+				E91E7DF81EAA154B00E786A7 /* cache.php */,
+				E91E7DF91EAA154B00E786A7 /* compile.php */,
+				E91E7DFA1EAA154B00E786A7 /* database.php */,
+				E91E7DFB1EAA154B00E786A7 /* filesystems.php */,
+				E91E7DFC1EAA154B00E786A7 /* jwt.php */,
+				E91E7DFD1EAA154B00E786A7 /* mail.php */,
+				E91E7DFE1EAA154B00E786A7 /* queue.php */,
+				E91E7DFF1EAA154B00E786A7 /* services.php */,
+				E91E7E001EAA154B00E786A7 /* session.php */,
+				E91E7E011EAA154B00E786A7 /* view.php */,
+			);
+			path = config;
+			sourceTree = "<group>";
+		};
+		E91E7E021EAA154B00E786A7 /* database */ = {
+			isa = PBXGroup;
+			children = (
+				E91E7E031EAA154B00E786A7 /* .gitignore */,
+				E91E7E041EAA154B00E786A7 /* factories */,
+				E91E7E061EAA154B00E786A7 /* migrations */,
+				E91E7E131EAA154B00E786A7 /* seeds */,
+			);
+			path = database;
+			sourceTree = "<group>";
+		};
+		E91E7E041EAA154B00E786A7 /* factories */ = {
+			isa = PBXGroup;
+			children = (
+				E91E7E051EAA154B00E786A7 /* ModelFactory.php */,
+			);
+			path = factories;
+			sourceTree = "<group>";
+		};
+		E91E7E061EAA154B00E786A7 /* migrations */ = {
+			isa = PBXGroup;
+			children = (
+				E91E7E071EAA154B00E786A7 /* .gitkeep */,
+				E91E7E081EAA154B00E786A7 /* 2017_04_20_071514_create_user_auths_table.php */,
+				E91E7E091EAA154B00E786A7 /* 2017_04_20_093643_create_users_table.php */,
+				E91E7E0A1EAA154B00E786A7 /* 2017_04_21_093352_create_hope_partner_table.php */,
+				E91E7E0B1EAA154B00E786A7 /* 2017_04_21_093702_create_photos_table.php */,
+				E91E7E0C1EAA154B00E786A7 /* 2017_04_21_093732_create_locations_table.php */,
+				E91E7E0D1EAA154B00E786A7 /* 2017_04_21_093832_create_basic_status_table.php */,
+				E91E7E0E1EAA154B00E786A7 /* 2017_04_21_093918_create_vip_status_table.php */,
+				E91E7E0F1EAA154B00E786A7 /* 2017_04_21_094143_create_auth_house_status_table.php */,
+				E91E7E101EAA154B00E786A7 /* 2017_04_21_094143_create_auth_identity_status_table.php */,
+				E91E7E111EAA154B00E786A7 /* 2017_04_21_094144_create_auth_edu_status_table.php */,
+				E91E7E121EAA154B00E786A7 /* 2017_04_21_094147_create_auth_job_status_table.php */,
+			);
+			path = migrations;
+			sourceTree = "<group>";
+		};
+		E91E7E131EAA154B00E786A7 /* seeds */ = {
+			isa = PBXGroup;
+			children = (
+				E91E7E141EAA154B00E786A7 /* .gitkeep */,
+				E91E7E151EAA154B00E786A7 /* DatabaseSeeder.php */,
+			);
+			path = seeds;
+			sourceTree = "<group>";
+		};
 		E935C1BF1EA4F8C6006222D2 = {
 			isa = PBXGroup;
 			children = (
@@ -495,10 +927,90 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E91E7E501EAA154C00E786A7 /* jwt.php in Resources */,
+				E91E7E541EAA154C00E786A7 /* session.php in Resources */,
+				E91E7E2A1EAA154C00E786A7 /* OptionController.php in Resources */,
+				E91E7E271EAA154B00E786A7 /* LikeRecordController.php in Resources */,
+				E91E7E431EAA154C00E786A7 /* EventServiceProvider.php in Resources */,
 				E935C1DB1EA4F8C6006222D2 /* LaunchScreen.storyboard in Resources */,
+				E91E7E4E1EAA154C00E786A7 /* database.php in Resources */,
+				E91E7E611EAA154C00E786A7 /* 2017_04_21_094143_create_auth_identity_status_table.php in Resources */,
+				E91E7E3B1EAA154C00E786A7 /* VerifyCsrfToken.php in Resources */,
+				E91E7E241EAA154B00E786A7 /* FeedbackController.php in Resources */,
+				E91E7E221EAA154B00E786A7 /* CollectionController.php in Resources */,
+				E91E7E321EAA154C00E786A7 /* RequestController.php in Resources */,
+				E91E7E261EAA154B00E786A7 /* GrammarController.php in Resources */,
+				E91E7E171EAA154B00E786A7 /* ExampleController.php in Resources */,
+				E91E7E5C1EAA154C00E786A7 /* 2017_04_21_093702_create_photos_table.php in Resources */,
+				E91E7E201EAA154B00E786A7 /* BaseController.php in Resources */,
+				E91E7E2D1EAA154C00E786A7 /* VideoController.php in Resources */,
+				E91E7E581EAA154C00E786A7 /* .gitkeep in Resources */,
+				E91E7E191EAA154B00E786A7 /* routes.php in Resources */,
+				E91E7E441EAA154C00E786A7 /* RouteServiceProvider.php in Resources */,
+				E91E7E2E1EAA154C00E786A7 /* AuthController.php in Resources */,
+				E91E7E621EAA154C00E786A7 /* 2017_04_21_094144_create_auth_edu_status_table.php in Resources */,
+				E91E7E1E1EAA154B00E786A7 /* ApiHelper.php in Resources */,
+				E91E7E4F1EAA154C00E786A7 /* filesystems.php in Resources */,
+				E91E7E351EAA154C00E786A7 /* Authenticate.php in Resources */,
+				E91E7E531EAA154C00E786A7 /* services.php in Resources */,
+				E91E7E461EAA154C00E786A7 /* composer.json in Resources */,
+				E91E7E341EAA154C00E786A7 /* AdminLogin.php in Resources */,
+				E91E7E291EAA154B00E786A7 /* MessageRecordController.php in Resources */,
+				E91E7E471EAA154C00E786A7 /* admin.php in Resources */,
+				E91E7E3F1EAA154C00E786A7 /* .gitkeep in Resources */,
+				E91E7E601EAA154C00E786A7 /* 2017_04_21_094143_create_auth_house_status_table.php in Resources */,
+				E91E7E4C1EAA154C00E786A7 /* cache.php in Resources */,
+				E91E7E561EAA154C00E786A7 /* .gitignore in Resources */,
+				E91E7E161EAA154B00E786A7 /* bootstrap.php in Resources */,
+				E91E7E3E1EAA154C00E786A7 /* Job.php in Resources */,
 				E90BB8AA1EA905D900101D93 /* Fade.xcassets in Resources */,
+				E91E7E421EAA154C00E786A7 /* AuthServiceProvider.php in Resources */,
+				E91E7E381EAA154C00E786A7 /* GetUserFromToken.php in Resources */,
+				E91E7E301EAA154C00E786A7 /* Controller.php in Resources */,
+				E91E7E2F1EAA154C00E786A7 /* PasswordController.php in Resources */,
+				E91E7E5B1EAA154C00E786A7 /* 2017_04_21_093352_create_hope_partner_table.php in Resources */,
+				E91E7E511EAA154C00E786A7 /* mail.php in Resources */,
+				E91E7E1A1EAA154B00E786A7 /* Inspire.php in Resources */,
+				E91E7E311EAA154C00E786A7 /* PostController.php in Resources */,
+				E91E7E371EAA154C00E786A7 /* EncryptCookies.php in Resources */,
+				E91E7E1F1EAA154B00E786A7 /* AuthenticateController.php in Resources */,
+				E91E7E4B1EAA154C00E786A7 /* broadcasting.php in Resources */,
 				E935C1D81EA4F8C6006222D2 /* Assets.xcassets in Resources */,
+				E91E7E651EAA154C00E786A7 /* DatabaseSeeder.php in Resources */,
+				E91E7E1D1EAA154B00E786A7 /* Handler.php in Resources */,
+				E91E7E3A1EAA154C00E786A7 /* TestMiddleware.php in Resources */,
+				E91E7E231EAA154B00E786A7 /* CommentController.php in Resources */,
+				E91E7E2C1EAA154C00E786A7 /* UserController.php in Resources */,
+				E91E7E391EAA154C00E786A7 /* RedirectIfAuthenticated.php in Resources */,
+				E91E7E5A1EAA154C00E786A7 /* 2017_04_20_093643_create_users_table.php in Resources */,
+				E91E7E3C1EAA154C00E786A7 /* Request.php in Resources */,
+				E91E7E5D1EAA154C00E786A7 /* 2017_04_21_093732_create_locations_table.php in Resources */,
+				E91E7E4D1EAA154C00E786A7 /* compile.php in Resources */,
 				E935C1D61EA4F8C6006222D2 /* Main.storyboard in Resources */,
+				E91E7E181EAA154B00E786A7 /* HomeController.php in Resources */,
+				E91E7E2B1EAA154C00E786A7 /* TweetsController.php in Resources */,
+				E91E7E451EAA154C00E786A7 /* User.php in Resources */,
+				E91E7E361EAA154C00E786A7 /* CkeckRegister.php in Resources */,
+				E91E7E1B1EAA154B00E786A7 /* Kernel.php in Resources */,
+				E91E7E211EAA154B00E786A7 /* CategoryController.php in Resources */,
+				E91E7E481EAA154C00E786A7 /* api.php in Resources */,
+				E91E7E411EAA154C00E786A7 /* AppServiceProvider.php in Resources */,
+				E91E7E251EAA154B00E786A7 /* FriendController.php in Resources */,
+				E91E7E401EAA154C00E786A7 /* .gitkeep in Resources */,
+				E91E7E1C1EAA154B00E786A7 /* Event.php in Resources */,
+				E91E7E281EAA154B00E786A7 /* ManualController.php in Resources */,
+				E91E7E571EAA154C00E786A7 /* ModelFactory.php in Resources */,
+				E91E7E4A1EAA154C00E786A7 /* auth.php in Resources */,
+				E91E7E5F1EAA154C00E786A7 /* 2017_04_21_093918_create_vip_status_table.php in Resources */,
+				E91E7E3D1EAA154C00E786A7 /* routes.php in Resources */,
+				E91E7E641EAA154C00E786A7 /* .gitkeep in Resources */,
+				E91E7E491EAA154C00E786A7 /* app.php in Resources */,
+				E91E7E551EAA154C00E786A7 /* view.php in Resources */,
+				E91E7E631EAA154C00E786A7 /* 2017_04_21_094147_create_auth_job_status_table.php in Resources */,
+				E91E7E5E1EAA154C00E786A7 /* 2017_04_21_093832_create_basic_status_table.php in Resources */,
+				E91E7E331EAA154C00E786A7 /* Kernel.php in Resources */,
+				E91E7E591EAA154C00E786A7 /* 2017_04_20_071514_create_user_auths_table.php in Resources */,
+				E91E7E521EAA154C00E786A7 /* queue.php in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
