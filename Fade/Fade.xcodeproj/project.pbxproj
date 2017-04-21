@@ -8,6 +8,13 @@
 
 /* Begin PBXBuildFile section */
 		BFB95BC8742EB849D8431D48 /* libPods-Fade.a in Frameworks */ = {isa = PBXBuildFile; fileRef = FB4C663098752E9AA4FBBE35 /* libPods-Fade.a */; };
+		E90BB8AA1EA905D900101D93 /* Fade.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E90BB8A91EA905D900101D93 /* Fade.xcassets */; };
+		E90BB8B21EA90ACB00101D93 /* HomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E90BB8B11EA90ACB00101D93 /* HomeViewController.m */; };
+		E90BB8B51EA90AE800101D93 /* DiscoveryViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E90BB8B41EA90AE800101D93 /* DiscoveryViewController.m */; };
+		E90BB8B81EA90AFC00101D93 /* MessageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E90BB8B71EA90AFC00101D93 /* MessageViewController.m */; };
+		E90BB8BB1EA90B1200101D93 /* UserCenterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E90BB8BA1EA90B1200101D93 /* UserCenterViewController.m */; };
+		E90BB8CE1EA90C5200101D93 /* SquareViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E90BB8CD1EA90C5200101D93 /* SquareViewController.m */; };
+		E90BB8D31EA9105000101D93 /* CYLPlusButtonSubclass.m in Sources */ = {isa = PBXBuildFile; fileRef = E90BB8D21EA9105000101D93 /* CYLPlusButtonSubclass.m */; };
 		E935C1CD1EA4F8C6006222D2 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E935C1CC1EA4F8C6006222D2 /* main.m */; };
 		E935C1D01EA4F8C6006222D2 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E935C1CF1EA4F8C6006222D2 /* AppDelegate.m */; };
 		E935C1D31EA4F8C6006222D2 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E935C1D21EA4F8C6006222D2 /* ViewController.m */; };
@@ -38,6 +45,19 @@
 /* Begin PBXFileReference section */
 		8EB8CACA88D3B6BAC5742223 /* Pods-Fade.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Fade.release.xcconfig"; path = "Pods/Target Support Files/Pods-Fade/Pods-Fade.release.xcconfig"; sourceTree = "<group>"; };
 		D370EB9938E58224CF3149B6 /* Pods-Fade.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Fade.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Fade/Pods-Fade.debug.xcconfig"; sourceTree = "<group>"; };
+		E90BB8A91EA905D900101D93 /* Fade.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Fade.xcassets; sourceTree = "<group>"; };
+		E90BB8B01EA90ACB00101D93 /* HomeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = HomeViewController.h; path = ../HomeViewController.h; sourceTree = "<group>"; };
+		E90BB8B11EA90ACB00101D93 /* HomeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = HomeViewController.m; path = ../HomeViewController.m; sourceTree = "<group>"; };
+		E90BB8B31EA90AE800101D93 /* DiscoveryViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DiscoveryViewController.h; path = ../DiscoveryViewController.h; sourceTree = "<group>"; };
+		E90BB8B41EA90AE800101D93 /* DiscoveryViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DiscoveryViewController.m; path = ../DiscoveryViewController.m; sourceTree = "<group>"; };
+		E90BB8B61EA90AFC00101D93 /* MessageViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MessageViewController.h; path = ../MessageViewController.h; sourceTree = "<group>"; };
+		E90BB8B71EA90AFC00101D93 /* MessageViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MessageViewController.m; path = ../MessageViewController.m; sourceTree = "<group>"; };
+		E90BB8B91EA90B1200101D93 /* UserCenterViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UserCenterViewController.h; path = ../UserCenterViewController.h; sourceTree = "<group>"; };
+		E90BB8BA1EA90B1200101D93 /* UserCenterViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = UserCenterViewController.m; path = ../UserCenterViewController.m; sourceTree = "<group>"; };
+		E90BB8CC1EA90C5200101D93 /* SquareViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SquareViewController.h; sourceTree = "<group>"; };
+		E90BB8CD1EA90C5200101D93 /* SquareViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SquareViewController.m; sourceTree = "<group>"; };
+		E90BB8D11EA9105000101D93 /* CYLPlusButtonSubclass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CYLPlusButtonSubclass.h; sourceTree = "<group>"; };
+		E90BB8D21EA9105000101D93 /* CYLPlusButtonSubclass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CYLPlusButtonSubclass.m; sourceTree = "<group>"; };
 		E935C1C81EA4F8C6006222D2 /* Fade.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Fade.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E935C1CC1EA4F8C6006222D2 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		E935C1CE1EA4F8C6006222D2 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -100,6 +120,209 @@
 			name = Pods;
 			sourceTree = "<group>";
 		};
+		E90BB8A71EA904FD00101D93 /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+				E90BB8A91EA905D900101D93 /* Fade.xcassets */,
+			);
+			path = Resource;
+			sourceTree = "<group>";
+		};
+		E90BB8AB1EA906D900101D93 /* 业务 */ = {
+			isa = PBXGroup;
+			children = (
+				E90BB8CF1EA9103C00101D93 /* Base */,
+				E90BB8C81EA90C3A00101D93 /* Square */,
+				E90BB8AC1EA9071600101D93 /* 我的 */,
+				E90BB8AD1EA9071600101D93 /* Discovery */,
+				E90BB8AE1EA9071600101D93 /* Home */,
+				E90BB8AF1EA9071600101D93 /* Message */,
+			);
+			path = "业务";
+			sourceTree = "<group>";
+		};
+		E90BB8AC1EA9071600101D93 /* 我的 */ = {
+			isa = PBXGroup;
+			children = (
+				E90BB8BC1EA90C0700101D93 /* Controllers */,
+				E90BB8BD1EA90C0700101D93 /* Models */,
+				E90BB8BE1EA90C0700101D93 /* Views */,
+			);
+			path = "我的";
+			sourceTree = "<group>";
+		};
+		E90BB8AD1EA9071600101D93 /* Discovery */ = {
+			isa = PBXGroup;
+			children = (
+				E90BB8BF1EA90C1300101D93 /* Controllers */,
+				E90BB8C01EA90C1300101D93 /* Models */,
+				E90BB8C11EA90C1300101D93 /* Views */,
+			);
+			path = Discovery;
+			sourceTree = "<group>";
+		};
+		E90BB8AE1EA9071600101D93 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				E90BB8C21EA90C2100101D93 /* Controllers */,
+				E90BB8C31EA90C2100101D93 /* Models */,
+				E90BB8C41EA90C2100101D93 /* Views */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		E90BB8AF1EA9071600101D93 /* Message */ = {
+			isa = PBXGroup;
+			children = (
+				E90BB8C51EA90C2B00101D93 /* Controllers */,
+				E90BB8C61EA90C2B00101D93 /* Models */,
+				E90BB8C71EA90C2B00101D93 /* Views */,
+			);
+			path = Message;
+			sourceTree = "<group>";
+		};
+		E90BB8BC1EA90C0700101D93 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				E90BB8B91EA90B1200101D93 /* UserCenterViewController.h */,
+				E90BB8BA1EA90B1200101D93 /* UserCenterViewController.m */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		E90BB8BD1EA90C0700101D93 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		E90BB8BE1EA90C0700101D93 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		E90BB8BF1EA90C1300101D93 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				E90BB8B31EA90AE800101D93 /* DiscoveryViewController.h */,
+				E90BB8B41EA90AE800101D93 /* DiscoveryViewController.m */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		E90BB8C01EA90C1300101D93 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		E90BB8C11EA90C1300101D93 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		E90BB8C21EA90C2100101D93 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				E90BB8B01EA90ACB00101D93 /* HomeViewController.h */,
+				E90BB8B11EA90ACB00101D93 /* HomeViewController.m */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		E90BB8C31EA90C2100101D93 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		E90BB8C41EA90C2100101D93 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		E90BB8C51EA90C2B00101D93 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				E90BB8B61EA90AFC00101D93 /* MessageViewController.h */,
+				E90BB8B71EA90AFC00101D93 /* MessageViewController.m */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		E90BB8C61EA90C2B00101D93 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		E90BB8C71EA90C2B00101D93 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		E90BB8C81EA90C3A00101D93 /* Square */ = {
+			isa = PBXGroup;
+			children = (
+				E90BB8C91EA90C3A00101D93 /* Controllers */,
+				E90BB8CA1EA90C3A00101D93 /* Models */,
+				E90BB8CB1EA90C3A00101D93 /* Views */,
+			);
+			path = Square;
+			sourceTree = "<group>";
+		};
+		E90BB8C91EA90C3A00101D93 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				E90BB8CC1EA90C5200101D93 /* SquareViewController.h */,
+				E90BB8CD1EA90C5200101D93 /* SquareViewController.m */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		E90BB8CA1EA90C3A00101D93 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		E90BB8CB1EA90C3A00101D93 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		E90BB8CF1EA9103C00101D93 /* Base */ = {
+			isa = PBXGroup;
+			children = (
+				E90BB8D01EA9103C00101D93 /* Views */,
+			);
+			path = Base;
+			sourceTree = "<group>";
+		};
+		E90BB8D01EA9103C00101D93 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				E90BB8D11EA9105000101D93 /* CYLPlusButtonSubclass.h */,
+				E90BB8D21EA9105000101D93 /* CYLPlusButtonSubclass.m */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
 		E935C1BF1EA4F8C6006222D2 = {
 			isa = PBXGroup;
 			children = (
@@ -125,6 +348,8 @@
 		E935C1CA1EA4F8C6006222D2 /* Fade */ = {
 			isa = PBXGroup;
 			children = (
+				E90BB8AB1EA906D900101D93 /* 业务 */,
+				E90BB8A71EA904FD00101D93 /* Resource */,
 				E935C1CE1EA4F8C6006222D2 /* AppDelegate.h */,
 				E935C1CF1EA4F8C6006222D2 /* AppDelegate.m */,
 				E935C1D11EA4F8C6006222D2 /* ViewController.h */,
@@ -271,6 +496,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E935C1DB1EA4F8C6006222D2 /* LaunchScreen.storyboard in Resources */,
+				E90BB8AA1EA905D900101D93 /* Fade.xcassets in Resources */,
 				E935C1D81EA4F8C6006222D2 /* Assets.xcassets in Resources */,
 				E935C1D61EA4F8C6006222D2 /* Main.storyboard in Resources */,
 			);
@@ -345,9 +571,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E90BB8D31EA9105000101D93 /* CYLPlusButtonSubclass.m in Sources */,
+				E90BB8B81EA90AFC00101D93 /* MessageViewController.m in Sources */,
+				E90BB8CE1EA90C5200101D93 /* SquareViewController.m in Sources */,
 				E935C1D31EA4F8C6006222D2 /* ViewController.m in Sources */,
+				E90BB8BB1EA90B1200101D93 /* UserCenterViewController.m in Sources */,
 				E935C1D01EA4F8C6006222D2 /* AppDelegate.m in Sources */,
 				E935C1CD1EA4F8C6006222D2 /* main.m in Sources */,
+				E90BB8B21EA90ACB00101D93 /* HomeViewController.m in Sources */,
+				E90BB8B51EA90AE800101D93 /* DiscoveryViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
