@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = 'CFF0EDACC91B498265A3B347277165EF'
+               BlueprintIdentifier = 'BA399C09FFDD52F49FFD97CA9777313B'
                BlueprintName = 'Pods-Fade'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'libPods-Fade.a'>
