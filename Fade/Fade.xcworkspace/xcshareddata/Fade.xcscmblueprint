@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F43DBBFD7BEA4C282C3814F47B1C97592845DF90",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F43DBBFD7BEA4C282C3814F47B1C97592845DF90" : 9223372036854775807,
+    "469848C38425AA44F7B8AD645B360C78BBD87E20" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A25DE13A-22CB-4D09-9110-A536ED64D7DE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F43DBBFD7BEA4C282C3814F47B1C97592845DF90" : "FadeProject\/",
+    "469848C38425AA44F7B8AD645B360C78BBD87E20" : "FadeProject\/Fade\/Fade\/%E4%B8%9A%E5%8A%A1\/laravel\/vendor\/dingo\/api\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Fade",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Fade\/Fade.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dingo\/api.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "469848C38425AA44F7B8AD645B360C78BBD87E20"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/lifeisgithub\/Fade.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F43DBBFD7BEA4C282C3814F47B1C97592845DF90"
+    }
+  ]
+}
